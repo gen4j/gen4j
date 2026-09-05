@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Surafel 👋</h1>
 
 <p align="center">
-  <strong>Software Engineering Student · AI · Web App</strong>
+  <strong>Software Engineering Student | AI · Web App</strong>
 </p>
 
 <p align="center">
