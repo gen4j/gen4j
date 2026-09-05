@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Surafel 👋</h1>
 
 <p align="center">
-  <strong>Software Engineering Student · Builder · Lifelong Learner</strong>
+  <strong>Software Engineering Student · AI · Web App</strong>
 </p>
 
 <p align="center">
@@ -78,8 +78,3 @@ I'm gradually turning those experiments into more complete and useful systems.
 
 
 
----
-
-<p align="center">
-  <em>Still learning. Still building.</em>
-</p>
