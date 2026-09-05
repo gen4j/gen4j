@@ -14,11 +14,7 @@
 
 I'm a **Software Engineering student at AASTU** who enjoys understanding how things work and turning what I learn into real projects.
 
-My main focus is **software engineering**, with a growing interest in **machine learning, data, backend systems, and system architecture**. I learn mostly by building projects, experimenting, making mistakes, and understanding why things work the way they do.
-
-Outside of software, I spend time studying **financial markets and technical analysis**, and I maintain a personal knowledge system in **Obsidian** to organize and connect what I learn.
-
-I'm still learning, and that's intentional. I'm more interested in building strong foundations than pretending to already have all the answers.
+I'm still learning, and that's intentional. 
 
 ---
 
@@ -68,7 +64,7 @@ Currently learning the practical ML workflow: **data → preprocessing → analy
 * Backend development and APIs
 * System architecture and software design
 * Writing cleaner, maintainable code
-* Financial markets and technical analysis
+
 
 ---
 
@@ -80,25 +76,7 @@ I'm gradually turning those experiments into more complete and useful systems.
 
 ---
 
-## 🧠 How I Learn
 
-I don't want to just know **how** to use something.
-
-I want to understand **why it works**.
-
-So my usual process is simple:
-
-**Learn → Build → Break → Debug → Understand → Document → Improve**
-
-I keep notes, revisit old ideas, and try to connect what I learn across different areas.
-
----
-
-## 📈 Beyond Code
-
-I'm also interested in **financial markets, trading, mathematics, and theology**.
-
-These interests are separate from my software work, but they all push me toward the same thing: **learning how systems work and thinking independently about them.**
 
 ---
 
