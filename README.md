@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Surafel 👋
 
-<!--
-**gen4j/gen4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering student at AASTU** who enjoys understanding how things work and turning what I learn into real projects.
 
-Here are some ideas to get you started:
+I'm currently building my foundations across **software engineering, machine learning, data science, and system development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Machine Learning & Data
+
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib`
+
+### 💻 Software Engineering
+
+`Java` · `Python` · `JavaScript` · `PHP`
+
+`Django` · `Laravel` · `JavaFX` · `MySQL`
+
+### 🛠️ Tools & Workflow
+
+`Git` · `GitHub` · `Jupyter` · `VS Code` · `Obsidian`
+
+### 📊 Currently Exploring
+
+* Machine learning workflows and practical ML projects
+* Data analysis and visualization
+* Backend development and system architecture
+* Software engineering practices
+* Financial markets and technical analysis
+
+### 📚 How I Learn
+
+I prefer **building things, breaking things, figuring out why they broke, and writing down what I learn**. I use my notes and projects as a way to turn scattered information into something I can actually understand and reuse.
+
+I'm still learning, and I don't claim to know everything. I'm focused on building strong foundations and becoming someone who can **understand problems deeply, build useful systems, and learn independently**.
+
+> **Learn deeply. Build consistently. Think for yourself.**
